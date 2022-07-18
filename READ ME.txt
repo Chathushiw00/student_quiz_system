@@ -1,6 +1,6 @@
     
 
-   student_online_quiz_system using php and mysql(xampp)
+   student_online_quiz_system using php and mysql
 ------------------------------------------------------------
 
 this application developed by using html,php,css,bootstrap & mysql technologeis.
